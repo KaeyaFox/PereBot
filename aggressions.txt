@@ -1,0 +1,6 @@
+Skittish
+Low
+Medium
+High
+Volatile
+

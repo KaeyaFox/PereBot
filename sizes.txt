@@ -1,0 +1,4 @@
+10:Small
+7:Medium
+2:Large
+1:Huge
